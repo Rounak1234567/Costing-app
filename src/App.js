@@ -602,7 +602,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Filterable Data Table</h1>
+      <h1>Costing Data</h1>
 
       <div className="filters">
         <select
